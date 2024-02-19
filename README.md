@@ -1,0 +1,1 @@
+This is a project in which I took a dataset from the National Institute of Justice and built a model to predict whether or not a convicted criminal would recidivize. This project involved data wrangling and feature engineering, exploratory data analysis, data visualization, and predictive modeling (perceptron network, random forest model, XGBoost, KNN, Logistic Regression).
